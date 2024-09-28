@@ -1,3 +1,3 @@
 # GOT---OCR-2.0
-[Colab of GOT](https://colab.research.google.com/drive/1nmiNciZ5ugQVp4rFbL9ZWpEPd92Y9o7p?usp=sharing)   
-(https://github.com/PaperPlaneDeemo)
+[Colab of GOT](https://colab.research.google.com/drive/1xP0M87L2ieeVBZnCEh0v33hyEQmZ5oAS#scrollTo=NYZhnLu6gZul)
+(https://github.com/vedmishra004/GOT---OCR-2.0)
